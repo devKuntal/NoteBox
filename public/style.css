@@ -1,0 +1,16 @@
+/* Reset browser style  */
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/* Google Font  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;800&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #e7e7e7;
+}
+header {
+    background-color: aquamarine;
+    
+}
