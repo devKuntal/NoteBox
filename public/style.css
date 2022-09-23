@@ -18,5 +18,25 @@ header {
     box-shadow: 0 0 10px 0 rgba(0,0,0,0.3);
 }
 header h1 {
-    color: #ffc709;
+    color: #dedede;
 }
+footer {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100vw;
+    height: 2.5em;
+}
+.author {
+    text-decoration: none;
+    color: #808080;
+}
+.note {
+    background: #ffffff;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #808080;
+    padding: 10px;
+    width: 240px;
+    margin: 16px;
+    float: left;
+  }
