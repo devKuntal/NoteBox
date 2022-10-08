@@ -1,7 +1,7 @@
 {
   "name": "notebox",
   "version": "0.1.0",
-  "homepage": "https://devKuntal.github.io/noteBox/",
+  "homepage": "https://devkuntal.github.io/noteBox/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
