@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/noteBox/static/js/main.7bdd8e98.js",
+    "index.html": "/noteBox/index.html",
+    "main.7bdd8e98.js.map": "/noteBox/static/js/main.7bdd8e98.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7bdd8e98.js"
+  ]
+}
